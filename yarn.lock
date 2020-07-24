@@ -1483,10 +1483,10 @@
     "@babel/runtime" "^7.10.3"
     "@testing-library/dom" "^7.17.1"
 
-"@testing-library/user-event@^12.0.12":
-  version "12.0.12"
-  resolved "https://registry.yarnpkg.com/@testing-library/user-event/-/user-event-12.0.12.tgz#b2ee1af9e9b8b28b1aae6d2026f611d7a75794e3"
-  integrity sha512-sftHNrd7JGFVL9yjmg64crjilxf1J6R65qgwfmUtu0M+biu/chnQr+KD+JlNHQevZtkkxQ9C8ELzHyXJpD9QZQ==
+"@testing-library/user-event@^12.0.11":
+  version "12.0.13"
+  resolved "https://registry.yarnpkg.com/@testing-library/user-event/-/user-event-12.0.13.tgz#585fbb1188df005d16eabd376c3f8e8eb2f2d35c"
+  integrity sha512-JvodPV7CGl2Izf/qWS+vAVKBB1ZNAPGEacabfEeLGfafLmiqXoGJCxNZC1ml3mNTj9tTsIjouHGc42gvlyRTtQ==
   dependencies:
     "@babel/runtime" "^7.10.2"
 
@@ -2395,10 +2395,10 @@ base@^0.11.1:
     mixin-deep "^1.2.0"
     pascalcase "^0.1.1"
 
-baseui@^9.88.0:
-  version "9.88.0"
-  resolved "https://registry.yarnpkg.com/baseui/-/baseui-9.88.0.tgz#d7c728f3bc8c9d4101f8e3c3d5222e5dd52a6862"
-  integrity sha512-Ir9Wcp0O/5ZR7gEFQ7oWNPUq4AsNFHoeCinFDg8M38j/fMA4OzUlCMu4CuOkljBnkI2z43HHhV46JJSzOyjIXA==
+baseui@^9.89.0:
+  version "9.89.0"
+  resolved "https://registry.yarnpkg.com/baseui/-/baseui-9.89.0.tgz#e969e59bbc0eea23068c0806fc0307d0e3c619d1"
+  integrity sha512-JWxghCBwNW16mTu+TTx5xEvFEibSbiXjFpqgdQioiwL89FhQNeY0DLyduL9qtwW3e0tNE5li5NpduTbhzyKgIw==
   dependencies:
     "@date-io/date-fns" "^2.6.2"
     card-validator "^6.2.0"
