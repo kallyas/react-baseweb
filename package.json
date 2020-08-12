@@ -9,7 +9,7 @@
     "@testing-library/jest-dom": "^5.11.2",
     "@testing-library/react": "^10.4.8",
     "@testing-library/user-event": "^12.1.1",
-    "baseui": "^9.93.0",
+    "baseui": "^9.94.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
