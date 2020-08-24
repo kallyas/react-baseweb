@@ -8,7 +8,7 @@
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.3",
     "@testing-library/react": "^10.4.8",
-    "@testing-library/user-event": "^12.1.1",
+    "@testing-library/user-event": "^12.1.2",
     "baseui": "^9.95.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
