@@ -2413,10 +2413,10 @@ base@^0.11.1:
     mixin-deep "^1.2.0"
     pascalcase "^0.1.1"
 
-baseui@^9.98.0:
-  version "9.98.0"
-  resolved "https://registry.yarnpkg.com/baseui/-/baseui-9.98.0.tgz#f50c7e1f68b0c9a9b5874b85babab471dc148980"
-  integrity sha512-tXws/f1a71oIoaqi/Qf5gkxwwTW9JZ51WvQE7s/g1s8tF4bGBNwxbIXDmXOzvNfGCC/bZZlMc0ul3D3/AMVkgw==
+baseui@^9.99.0:
+  version "9.99.0"
+  resolved "https://registry.yarnpkg.com/baseui/-/baseui-9.99.0.tgz#e4c4d4213c01740cecf696487a554e0934665af9"
+  integrity sha512-NUVlJTciBatVONztPsK3Lz2EKvx8dv3lDOA8ojhKR6mg52PHSqTdYIPoh98QAbpScmIi7oOt5FzYRqcJsih8qQ==
   dependencies:
     "@date-io/date-fns" "^2.6.2"
     card-validator "^6.2.0"
