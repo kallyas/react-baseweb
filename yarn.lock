@@ -4243,10 +4243,10 @@ eslint-module-utils@^2.4.1:
     debug "^2.6.9"
     pkg-dir "^2.0.0"
 
-eslint-plugin-baseui@^9.101.0:
-  version "9.101.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-baseui/-/eslint-plugin-baseui-9.101.0.tgz#85e4bc288adfbb83c93911e634ceb771d8acb245"
-  integrity sha512-6gqnWEJYG0MxAw5WV7Acde7wsVSY0YHzMmgP0bM4PJbZ4dqpUKc6Hvxkh58ClmZtwwqKVREL/V9MBGk9fi81vg==
+eslint-plugin-baseui@^9.102.0:
+  version "9.102.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-baseui/-/eslint-plugin-baseui-9.102.0.tgz#434750b6c9d5ef7b41b477e960a1043f5a690fa3"
+  integrity sha512-PfrqvMjp7O0FBa4cDN8wheUvDzfQ1Y7KUv6NLYK0yWqXLmmpYZmINLUZJgR0y14vBFGnRgYPHMxWy/XL6WjFvQ==
 
 eslint-plugin-flowtype@4.6.0:
   version "4.6.0"
