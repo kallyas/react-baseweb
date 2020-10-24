@@ -9,7 +9,7 @@
     "@testing-library/jest-dom": "^5.11.3",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
-    "baseui": "^9.102.0",
+    "baseui": "^9.103.0",
     "react": "^16.14.0",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3",
@@ -26,7 +26,7 @@
     "extends": "react-app"
   },
   "devDependencies": {
-    "eslint-plugin-baseui": "^9.102.0"
+    "eslint-plugin-baseui": "^9.103.0"
   },
   "browserslist": {
     "production": [
