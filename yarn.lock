@@ -2456,10 +2456,10 @@ base@^0.11.1:
     mixin-deep "^1.2.0"
     pascalcase "^0.1.1"
 
-baseui@^9.102.0:
-  version "9.102.0"
-  resolved "https://registry.yarnpkg.com/baseui/-/baseui-9.102.0.tgz#e272dc1c4acdf2193fe0e81a88ef8317b7625502"
-  integrity sha512-j5zQHqQWHcxOq1xT/omicRwbmdmUxfQ6uN61IoO/4kpqhFH79DMvUzhpmhapeXWxEDZcTvW3R31vcWQ2Yn3POg==
+baseui@^9.103.0:
+  version "9.103.0"
+  resolved "https://registry.yarnpkg.com/baseui/-/baseui-9.103.0.tgz#fb173ff18b02c0b7c0e290e5b021b1d5e0d8ccde"
+  integrity sha512-IVEkLwaU1Igj8RCFC+DAdJIsqybJJb2EU1V1Q0uGZBbI8jZamQwd/BLxnlhSUfbmEWLJg30LR+nhBA5kYleatw==
   dependencies:
     "@date-io/date-fns" "^2.6.2"
     card-validator "^6.2.0"
@@ -2476,7 +2476,7 @@ baseui@^9.102.0:
     react-is "^16.8.6"
     react-movable "^2.4.0"
     react-multi-ref "^1.0.0"
-    react-range "^1.7.0"
+    react-range "^1.8.0"
     react-uid "^2.3.0"
     react-virtualized "^9.21.1"
     react-virtualized-auto-sizer "^1.0.2"
@@ -8922,10 +8922,10 @@ react-multi-ref@^1.0.0:
   dependencies:
     "@babel/runtime" "^7.1.2"
 
-react-range@^1.7.0:
-  version "1.8.0"
-  resolved "https://registry.yarnpkg.com/react-range/-/react-range-1.8.0.tgz#15ff0de891079670505078fba3d2ee2ef359ee95"
-  integrity sha512-IGVIFGauuA7DciUIkRt+RZVYYw+4uCV0wYbaqAIpi3MU3lGW6Sv58CPHsGXTG2mt9sK72Pr4QSDXv2rTeYFwfA==
+react-range@^1.8.0:
+  version "1.8.2"
+  resolved "https://registry.yarnpkg.com/react-range/-/react-range-1.8.2.tgz#0d22961d65917777ef7f66228147d6752aeccef9"
+  integrity sha512-zegXW7xgWn/4HQ9EqFsxrFamx1rN/CDcG0a7v0dDYb975IG1l7yycQE02CXfWtclM0pUzSZa0iop3zHLPWyyMw==
 
 react-scripts@3.4.3:
   version "3.4.3"
