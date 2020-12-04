@@ -6,7 +6,7 @@
   "author": "Kally <kallyasmedia@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@testing-library/jest-dom": "^5.11.3",
+    "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.5.0",
     "baseui": "^9.106.0",
