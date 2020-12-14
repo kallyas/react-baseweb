@@ -1678,10 +1678,10 @@ base@^0.11.1:
     mixin-deep "^1.2.0"
     pascalcase "^0.1.1"
 
-baseui@^9.106.0:
-  version "9.106.0"
-  resolved "https://registry.yarnpkg.com/baseui/-/baseui-9.106.0.tgz#0248bde2b27635b4499fb501bc09970947dc0821"
-  integrity sha512-r4TF5TXGrx57M7Td+sv9pzxfPq/aLc+Zmb0YLViUo2CoMfh5VVvdy46b2NAtCfvEyB79s4Kw2gmKN5hGdUx/tw==
+baseui@^9.106.2:
+  version "9.106.2"
+  resolved "https://registry.yarnpkg.com/baseui/-/baseui-9.106.2.tgz#baab0a4df23ee06bfb269ba6737518618504c875"
+  integrity sha512-Ed4u4E6TmTfJ+RKAJAtbxBWKHBar+JA9hnOh05e6BqbmddEzlRQXUPBgCaHd5DoxZysoBXjH1gBkchgJXJw9AQ==
   dependencies:
     "@date-io/date-fns" "^2.6.2"
     card-validator "^6.2.0"
@@ -1689,7 +1689,6 @@ baseui@^9.106.0:
     glob "^7.1.6"
     just-extend "^4.0.2"
     memoize-one "^5.1.1"
-    next-transpile-modules "^3.3.0"
     polished "^3.2.0"
     popper.js "^1.16.0"
     react-dropzone "^9.0.0"
@@ -3202,14 +3201,6 @@ native-url@^0.2.6:
   integrity sha512-k4bDC87WtgrdD362gZz6zoiXQrl40kYlBmpfmSjwRO1VU0V5ccwJTlxuE72F6m3V0vc1xOf6n3UCP9QyerRqmA==
   dependencies:
     querystring "^0.2.0"
-
-next-transpile-modules@^3.3.0:
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/next-transpile-modules/-/next-transpile-modules-3.3.0.tgz#90f197d1ceda2a2ce7a4f423b262320354456abf"
-  integrity sha512-QIaBunwtC9oNaluQvfJw5hv1uXSAlTzDCc7/FUxZw5Rnm0yo1HJjW6YodFvA+7Xm9k/2fZV2itF99vMBwTOUjQ==
-  dependencies:
-    micromatch "^4.0.2"
-    slash "^3.0.0"
 
 nice-try@^1.0.4:
   version "1.0.5"
