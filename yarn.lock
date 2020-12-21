@@ -2250,10 +2250,10 @@ escape-string-regexp@^1.0.5:
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
   integrity sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ=
 
-eslint-plugin-baseui@^9.106.0:
-  version "9.106.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-baseui/-/eslint-plugin-baseui-9.106.0.tgz#2f58978e0b99548c58d668b23bc2c6e579579817"
-  integrity sha512-evZqK/BDQjhffF65wiIg2tOd8L3m2l6AIBIuAQ4Mom6Qi5wWzO4qa1Y3zzCXMLm/2eB5Xr5xGKYaMj+VRFT+vw==
+eslint-plugin-baseui@^9.106.3:
+  version "9.106.3"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-baseui/-/eslint-plugin-baseui-9.106.3.tgz#d0425692d61e78ab8d88dc9cd23fd19cc4012aeb"
+  integrity sha512-ILzsqkyLn9cE+uMKgOj2m8GdUdMjVDYP0efNQYk/c6e3oWJvMg4rxB3oEX5Y7YlmqgkWdca6dH43Vgn2riYJVg==
 
 eslint-scope@^5.0.0:
   version "5.1.1"
