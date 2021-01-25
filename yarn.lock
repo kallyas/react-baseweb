@@ -1678,10 +1678,10 @@ base@^0.11.1:
     mixin-deep "^1.2.0"
     pascalcase "^0.1.1"
 
-baseui@^9.106.3:
-  version "9.106.3"
-  resolved "https://registry.yarnpkg.com/baseui/-/baseui-9.106.3.tgz#7dea655e810c1b4b618e3ad86a784996f89649ab"
-  integrity sha512-gAH0H+aj2G+A/oBckfEbvxCVycXPmQYxK6h6PzMbrZj6x6pZbDGKiHR+UpN4WA24TqkdNddHq5hxqjlWVr0szw==
+baseui@^9.108.0:
+  version "9.108.0"
+  resolved "https://registry.yarnpkg.com/baseui/-/baseui-9.108.0.tgz#d6dc21754fc067c6ba50e1ef146ab42ef2c3feee"
+  integrity sha512-ptPM0L1drAfv8PbEfNh6rCEFAScZP6F5zaJlggmmxtV0I7mFPXQDUGoImTjy9cHxRF/1DQLn6XV7MCPebbD7jQ==
   dependencies:
     "@date-io/date-fns" "^2.6.2"
     card-validator "^6.2.0"
@@ -2250,10 +2250,10 @@ escape-string-regexp@^1.0.5:
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
   integrity sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ=
 
-eslint-plugin-baseui@^9.106.3:
-  version "9.106.3"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-baseui/-/eslint-plugin-baseui-9.106.3.tgz#d0425692d61e78ab8d88dc9cd23fd19cc4012aeb"
-  integrity sha512-ILzsqkyLn9cE+uMKgOj2m8GdUdMjVDYP0efNQYk/c6e3oWJvMg4rxB3oEX5Y7YlmqgkWdca6dH43Vgn2riYJVg==
+eslint-plugin-baseui@^9.108.0:
+  version "9.108.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-baseui/-/eslint-plugin-baseui-9.108.0.tgz#5df0a5e3b3f4d2f2fee425ce48c5434125e507ba"
+  integrity sha512-lVUaqKVQGvvTYIMj+hd1XB5ZoR3BsLgxqMwZauF+++YE3iWfYPXgmF4xGOY3kNx3QhOWMsHZjFkAt8bcsFzeXg==
 
 eslint-scope@^5.0.0:
   version "5.1.1"
