@@ -29,7 +29,7 @@
     "extends": "react-app"
   },
   "devDependencies": {
-    "eslint-plugin-baseui": "^9.109.0"
+    "eslint-plugin-baseui": "^9.110.0"
   },
   "browserslist": {
     "production": [
