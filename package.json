@@ -13,7 +13,7 @@
     "@testing-library/user-event": "^12.7.3",
 
     "react": "^16.14.0",
-    "react-scripts": "4.0.1",
+    "react-scripts": "4.0.3",
     "react-dom": "^16.14.0",
     "styletron-engine-atomic": "^1.4.7",
     "styletron-react": "^5.2.7"
