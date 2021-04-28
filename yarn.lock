@@ -3743,10 +3743,10 @@ base@^0.11.1:
     mixin-deep "^1.2.0"
     pascalcase "^0.1.1"
 
-baseui@^9.112.0:
-  version "9.112.0"
-  resolved "https://registry.yarnpkg.com/baseui/-/baseui-9.112.0.tgz#cb8f0efeb0175187d4e5583bb2a39b5474d71b50"
-  integrity sha512-kke6u2lOZLQO91tTnPGJ6Ak+Js23VgjBYAcGENvJPDBsbClYsrxzIYSGmPoGzmlBGWkTlzJzhd9Nms4nMlrS4w==
+baseui@^9.113.0:
+  version "9.113.0"
+  resolved "https://registry.yarnpkg.com/baseui/-/baseui-9.113.0.tgz#3b7f749839b6614803f6b52abe0c03639e443b06"
+  integrity sha512-f1PxFuDpozGw1a4Pwkh67TNO0dnYMp0SYOJaip3TZIhxCtTh/V94S2UtoZ4ZuR9rB5a5QfBvi7cvwGEFzfgOhg==
   dependencies:
     "@date-io/date-fns" "^2.6.2"
     card-validator "^6.2.0"
