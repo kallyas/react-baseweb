@@ -5646,10 +5646,10 @@ eslint-module-utils@^2.6.0:
     debug "^2.6.9"
     pkg-dir "^2.0.0"
 
-eslint-plugin-baseui@^9.112.0:
-  version "9.112.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-baseui/-/eslint-plugin-baseui-9.112.0.tgz#525a6d8ee44d59e6fc783839d14c143a158f9138"
-  integrity sha512-/26cLsJ1lNrnQ1hOggU3k23kRKopfv1jRCzr3wWZToAKM9k0si3PblEzh9K++T2m3hGYVWaaJtvr5Qqjz3rNdw==
+eslint-plugin-baseui@^9.115.1:
+  version "9.115.1"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-baseui/-/eslint-plugin-baseui-9.115.1.tgz#05b7d8a131fa28efe0d4d1196d9a31f75ffcfb79"
+  integrity sha512-4o91PAXDhYloxK4QsAZKamM2fKkgZg9R14FS7phO512n/pTSs8/zG2lvMUDbZkkyNBheR3lcoE59AzxhClxyCQ==
 
 eslint-plugin-flowtype@^5.2.0:
   version "5.2.0"
