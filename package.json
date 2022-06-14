@@ -7,7 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
-    "baseui": "^10.4.0",
+    "baseui": "^11.1.0",
     "@testing-library/react": "^12.1.2",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/user-event": "^13.3.0",
